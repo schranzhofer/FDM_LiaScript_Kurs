@@ -36,9 +36,7 @@ Learn more about FAIR
 
 ## File Formats
 
-### Short explanation
-
-
+__Short explanation__
 
 The file format is created by saving a file and contains information about the structure of data contained in a file, its purpose and affiliation. Application software can use the information available in the file format to interpret the data and make the contents available. The format of a file is added to the actual name with an appropriate extension. This consists of a point and two to four letters.
 
@@ -46,8 +44,7 @@ With so-called proprietary formats, the files can only be opened, edited and sav
 
 File formats can be actively changed by conversion when saving, but data loss can occur. In the scientific field, particular attention should be paid to compatibility, suitability for long-term archiving and lossless conversion to alternative formats.
 
-
-### Video
+__Video__
 
 !?[youtube](https://www.youtube.com/watch?v=kxxlQnc8u1I)
 
@@ -89,9 +86,9 @@ But there are also lossy types of compression where some of the content is lost.
 As you can see, there are a few things to consider when it comes to file formats. To get started you can access a list of recommended formats via our website. Take a look!
 
 
-### Quiz
+__Quiz__
 
-### Further information
+__Further information__
 
 You can find further information including [descriptions of various file formats](https://www.loc.gov/preservation/digital/formats/fdd/descriptions.shtml) on the Library of Congress website.
 
@@ -99,7 +96,7 @@ You can download data management best practices evaluation checklist from the UC
 
 
 
-### Citation
+__Citation__
 
 FAIR Data Austria (2021). “File formats “. In: Research Data Management Open Educational Resources Collection. (https://fair-office.at/index.php/fileformates/?lang=en).
 
