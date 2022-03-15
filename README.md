@@ -23,7 +23,9 @@ translation: Français translations/French.md
 
 # Open Educational Resources for Research Data Management
 
-Description: The collection of open educational resources (OER) on the following pages was created by the Training Task Force in 2021 as part of the FAIR Data Austria project (BMBWF, 2020-2022). The collection consists of selected OER enhanced by further information and interactive elements to provide an introduction to the following nine topics. The pages or the individual elements can be reused to create informational and training materials on research data management.
+Description: The collection of open educational resources (OER) on the following pages was created by the Training Task Force in 2021 as part of the FAIR Data Austria project (BMBWF, 2020-2022). The collection consists of selected OER enhanced by further information and interactive elements to provide an introduction to the following nine topics. The pages or the individual elements can be reused to create informational and training materials on research data management. The collection is also available at https://fair-office.at/index.php/lernen-sie-mehr/.
+
+
 
 Authors: Christiane Stork, Elena Fürst, Heike Thöricht, Hermann Schranzhofer, Nikos Gänsdorfer, Tereza Kalová, Therese Macher.                                      The authors were supported by interns at the Vienna University Library in August 2021: Christine Stridde, Rebecca Ringbauer, Sonja Schillings, Tamara Köstenbach.
 
@@ -36,7 +38,7 @@ Learn more about FAIR
 
 ## File Formats
 
-__Short explanation__
+__Short explanation__<!-- style="color: black; font-size: 30px;" -->
 
 The file format is created by saving a file and contains information about the structure of data contained in a file, its purpose and affiliation. Application software can use the information available in the file format to interpret the data and make the contents available. The format of a file is added to the actual name with an appropriate extension. This consists of a point and two to four letters.
 
@@ -44,7 +46,7 @@ With so-called proprietary formats, the files can only be opened, edited and sav
 
 File formats can be actively changed by conversion when saving, but data loss can occur. In the scientific field, particular attention should be paid to compatibility, suitability for long-term archiving and lossless conversion to alternative formats.
 
-__Video__
+__Video__<!-- style="color: black; font-size: 30px;" -->
 
 !?[youtube](https://www.youtube.com/watch?v=kxxlQnc8u1I)
 
@@ -54,7 +56,7 @@ Content: This short knowledge clip explains what file formats are, why they are 
 
 Licence: CC-BY 4.0
 
-__Transcript__
+__Transcript__<!-- style="color: black; font-size: 30px;" -->
 
 
 What is the importance of file formats in research data management?
@@ -86,9 +88,31 @@ But there are also lossy types of compression where some of the content is lost.
 As you can see, there are a few things to consider when it comes to file formats. To get started you can access a list of recommended formats via our website. Take a look!
 
 
-__Quiz__
+__Quiz__<!-- style="color: black; font-size: 30px;" -->
 
-__Further information__
+
+
+What criteria should be considered when choosing a format?
+
+    [[ ]] Formats are not of importance at all
+    [[X]] Compatibility, suitability for long-term archiving and lossless conversion
+    [[ ]] Proprietary data format and compressibility
+
+
+Which file formats should be used?
+
+    [[ ]] Files or formats should be encrypted, compressed, proprietary or patented
+    [[X]] Open, documented standards should be preferred
+    [[ ]] The file format does not matter, as software companies ensure compatibility anyway
+
+
+What is the best way to ensure that digital data is accessible for a long time?
+
+    [[ ]] The use and storage of proprietary data formats
+    [[ ]] The use and storage of hardware-specific data formats
+    [[X]] The use and storage of open data formats
+
+__Further information__<!-- style="color: black; font-size: 30px;" -->
 
 You can find further information including [descriptions of various file formats](https://www.loc.gov/preservation/digital/formats/fdd/descriptions.shtml) on the Library of Congress website.
 
@@ -96,7 +120,7 @@ You can download data management best practices evaluation checklist from the UC
 
 
 
-__Citation__
+__Citation__<!-- style="color: black; font-size: 30px;" -->
 
 FAIR Data Austria (2021). “File formats “. In: Research Data Management Open Educational Resources Collection. (https://fair-office.at/index.php/fileformates/?lang=en).
 
